@@ -1,0 +1,13 @@
+I "thought" it was but I couldn't do it - I was at it for hours!
+
+ISSUE:
+Box disappears upon pressing 'SPACE' on keyboard.
+
+GOAL:
+Box should appear in avatar's hand - carrying it and pressing again to drop it, as well as being able to stack it on top of another.
+
+Have been everywhere I can think of to nail this. I give up so offering a simple €20 transfer to the one that can take a look at this and fix a pickup mechanic.
+ISSUE:
+Box disappears upon pressing 'SPACE' on keyboard.
+GOAL:
+Box should appear in avatar's hand - carrying it and pressing again to drop it, as well as being able to stack it on top of another.

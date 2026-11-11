@@ -1,0 +1,24 @@
+
+# Unreal Engine generated files
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.VC.db
+*.VC.VC.opendb
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
