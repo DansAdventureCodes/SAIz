@@ -1,0 +1,17 @@
+# Unreal Engine generated output
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/.vs/
+
+# IDE and OS files
+*.sln
+*.suo
+*.user
+*.userprefs
+.vsconfig
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
